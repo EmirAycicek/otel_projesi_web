@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-hide {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
+.mySwiper {
+  --swiper-navigation-color: #000;
+  --swiper-pagination-color: #000;
+}
+
+.mySwiper .swiper-button-next,
+.mySwiper .swiper-button-prev {
+  color: #000;
+}
+
+.mySwiper .swiper-pagination-bullet {
+  background: #000;
+}

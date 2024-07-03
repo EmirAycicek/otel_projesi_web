@@ -1,0 +1,52 @@
+{
+    "yemeicme": [
+      {
+        "title": "Sabah Kahvaltısı",
+        "description": "Sabah kahvaltımız, güne enerjik bir başlangıç yapmanız için zengin ve çeşitli seçenekler sunar. Taze meyveler, ev yapımı ekmekler ve çeşitli peynirler ile doyurucu bir kahvaltı sizi bekliyor. Sıcak seçenekler arasında omletler, gözlemeler ve taze pişmiş hamur işleri bulunur. Misafirlerimize yerel tatları da tanıtmak adına yöresel lezzetler sunmaktayız. Güne başlarken deniz manzarası eşliğinde keyifli bir kahvaltı yapabilirsiniz.",
+        "image": "https://www.hilton.com/im/en/GYDHBHI/17759275/-dsf1966.jpg?impolicy=crop&cw=4821&ch=3750&gravity=NorthWest&xposition=89&yposition=0&rw=684&rh=532"
+      },
+      {
+        "title": "Akşam Yemeği",
+        "description": "Akşam yemeğinde, otelimizin şefleri tarafından özenle hazırlanan gurme lezzetler sizleri bekliyor. Menüde taze deniz ürünleri, et yemekleri ve vejetaryen seçenekler mevcuttur. Restoranımız, zarif atmosferi ve özenli servisi ile özel günlerinizde de yanınızda. Akşam yemeğinizi, romantik bir ortamda deniz manzarası eşliğinde keyifle yiyebilirsiniz. Lezzetli tatlılarımız ve geniş şarap koleksiyonumuz, yemeğinizi mükemmel bir şekilde tamamlayacak.",
+        "image": "https://www.hilton.com/im/en/GYDHBHI/17759269/-dsf1923-3-.jpg?impolicy=crop&cw=4821&ch=3750&gravity=NorthWest&xposition=89&yposition=0&rw=684&rh=532"
+      },
+      {
+        "title": "360 Bar",
+        "description": "360 Bar, misafirlerine muhteşem manzaralar eşliğinde unutulmaz bir deneyim sunar. Barımızda dünya mutfağından özenle seçilmiş kokteyller ve içecekler servis edilir. Gün batımını izlerken, rahatlatıcı bir ortamda dostlarınızla sohbet edebilirsiniz. Hafta sonları canlı müzik performansları ile eğlencenize eğlence katıyoruz. 360 Bar, şık dekorasyonu ve samimi atmosferi ile hem dinlenmek hem de eğlenmek için ideal bir mekandır.",
+        "image": "https://www.hilton.com/im/en/GYDHBHI/17759266/-dsf2201-1-.jpg?impolicy=crop&cw=4821&ch=3750&gravity=NorthWest&xposition=89&yposition=0&rw=684&rh=532"
+      },
+      {
+        "title": "7-24 Açık Kafetarya",
+        "description": "Kafetaryamız, günün her saati misafirlerimize hizmet vermektedir. Deniz manzaralı bu eşsiz mekanda, hafif atıştırmalıklar ve sıcak-soğuk içecekler bulabilirsiniz. Günün yorgunluğunu atmak veya hoş bir mola vermek için ideal bir yerdir. Kafetaryamızın rahat koltuklarında oturup, denizin sesi eşliğinde kitabınızı okuyabilirsiniz. Ayrıca, iş toplantılarınız veya arkadaş buluşmalarınız için de uygun bir ortam sunuyoruz.",
+        "image": "https://www.1atravel.rs/wp-content/uploads/2023/11/CAPE-BODRUM-LUXURY-HOTEL-amp-BEACH_247.picture.20022023.0953.63f335d5748a57.40384602.jpg"
+      }
+    ],
+    "spa": [
+      {
+        "title": "Hamam",
+        "description": "Otelimizin hamamı, misafirlerimize geleneksel Türk hamamı deneyimini en üst düzeyde sunar. Hamamda, sıcak mermer üzerinde dinlenebilir ve özel kese terapileri ile cildinizi arındırabilirsiniz. Bu benzersiz deneyim, vücudunuzu toksinlerden arındırırken zihninizi de dinlendirir. Hamam seansları, yorgunluğunuzu atmanıza ve yenilenmiş hissetmenize yardımcı olur. Otelimizin uzman personeli, size en iyi hizmeti sunmak için her zaman hazırdır.",
+        "image": "https://media-cdn.tripadvisor.com/media/photo-s/07/54/fb/b3/otel-seyhan.jpg"
+      },
+      {
+        "title": "Sauna",
+        "description": "Saunamız, vücudunuzdaki toksinleri atmanıza yardımcı olacak mükemmel bir rahatlama alanıdır. Yüksek sıcaklık ve düşük nem oranı ile cildinizdeki gözenekleri açarak derinlemesine bir temizlik sağlar. Düzenli sauna kullanımı, kas ağrılarınızı azaltır ve genel sağlığınızı iyileştirir. Saunamızda, rahatlatıcı bir atmosferde huzur bulabilirsiniz. Seans sonrası soğuk duşlar ile ferahlamanız sağlanır.",
+        "image": "https://media-cdn.tripadvisor.com/media/photo-s/07/54/fb/be/otel-seyhan.jpg"
+      },
+      {
+        "title": "Buhar Odası",
+        "description": "Buhar odamız, nemli sıcaklık ile derin bir rahatlama sunar. Buharın cildinize ve solunum yollarınıza faydalı etkileri vardır, böylece nefes almanız kolaylaşır ve cildiniz canlanır. Buhar odası, kaslarınızı gevşetir ve stresinizi azaltır. Seans sonrası kendinizi tazelenmiş ve yenilenmiş hissedeceksiniz. Otelimizin buhar odası, rahatlatıcı ve huzurlu bir ortamda hizmet vermektedir.",
+        "image": "https://media-cdn.tripadvisor.com/media/photo-s/10/6b/a2/cb/buhar-odasi.jpg"
+      },
+      {
+        "title": "Spor Salonu",
+        "description": "Spor salonumuz, modern ve son teknoloji ekipmanlarla donatılmıştır. Kardiyo ve ağırlık antrenmanları için geniş bir yelpazede seçenekler sunuyoruz. Profesyonel eğitmenlerimiz, kişisel antrenman programlarınızı hazırlamada size yardımcı olabilir. Spor salonumuz, sağlıklı ve aktif bir yaşam tarzını desteklemek için tasarlanmıştır. Günün herhangi bir saatinde spor yaparak formda kalabilirsiniz.",
+        "image": "https://media-cdn.tripadvisor.com/media/photo-s/11/5b/7c/b3/spor-salonu.jpg"
+      },
+      {
+        "title": "Yüzme Havuzu",
+        "description": "Otelimizin hem kapalı hem de açık yüzme havuzları, tüm yıl boyunca keyifle yüzme imkanı sunar. Kapalı havuzumuz, yılın her mevsiminde rahatça kullanılabilir. Açık havuzumuz, güneşli günlerde serinlemek ve güneşlenmek için idealdir. Havuz başında sunulan şezlonglar ve güneş şemsiyeleri ile rahatça dinlenebilirsiniz. Yüzme havuzlarımız, hijyenik ve güvenli bir ortamda, huzur dolu anlar geçirmenizi sağlar.",
+        "image": "https://www.eliteworldhotels.com.tr/Upload/638014772767816027_LandingPage.jpg"
+      }
+    ]
+  }
+  

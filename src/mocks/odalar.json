@@ -1,0 +1,94 @@
+{
+    "rooms": [
+      {
+        "name": "King Yataklı Misafir Odası",
+        "type": "Guest",
+        "price": 100,
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/da/7d/47/sheraton-adana-hotel.jpg?w=1200&h=-1&s=1"
+      },
+      {
+        "name": "İki Yataklı Konuk Odası",
+        "type": "Guest",
+        "price": 110,
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/15/e9/25/classic-and-deluxe-twin.jpg?w=1200&h=-1&s=1"
+      },
+      {
+        "name": "King Deluxe Oda - Deniz Manzaralı",
+        "type": "Guest",
+        "price": 120,
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/15/e9/38/junior-suite-bedroom.jpg?w=1200&h=-1&s=1"
+      },
+      {
+        "name": "Şehir Manzaralı King Deluxe Oda",
+        "type": "Guest",
+        "price": 130,
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/da/7d/41/sheraton-adana-hotel.jpg?w=1200&h=-1&s=1"
+      },
+      {
+        "name": "İki Yataklı Bağlantılı Aile Odası",
+        "type": "Guest",
+        "price": 140,
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/15/e9/25/classic-and-deluxe-twin.jpg?w=1200&h=-1&s=1"
+      },
+      {
+        "name": "Promotional Room 1",
+        "type": "Promotional",
+        "price": 90,
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/15/e9/1e/grand-deluxe-bedroom.jpg?w=1200&h=-1&s=1"
+      },
+      {
+        "name": "Promotional Room 2",
+        "type": "Promotional",
+        "price": 95,
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/15/e9/1d/deluxe-room.jpg?w=1200&h=-1&s=1"
+      },
+      {
+        "name": "Promotional Room 3",
+        "type": "Promotional",
+        "price": 85,
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/15/e9/1a/twin-club-guest-room.jpg?w=1200&h=-1&s=1"
+      },
+      {
+        "name": "Promotional Room 4",
+        "type": "Promotional",
+        "price": 100,
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/15/e9/28/classic-room.jpg?w=1200&h=-1&s=1"
+      },
+      {
+        "name": "Promotional Room 5",
+        "type": "Promotional",
+        "price": 80,
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/15/e9/35/executive-deluxe-suite.jpg?w=1200&h=-1&s=1"
+      },
+      {
+        "name": "Lux Room 1",
+        "type": "Lux",
+        "price": 250,
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/15/e9/34/executive-deluxe-suite.jpg?w=1200&h=-1&s=1"
+      },
+      {
+        "name": "Lux Room 2",
+        "type": "Lux",
+        "price": 280,
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/15/e9/2e/presidential-suite-living.jpg?w=1200&h=-1&s=1"
+      },
+      {
+        "name": "Lux Room 3",
+        "type": "Lux",
+        "price": 300,
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/15/e9/33/honeymoon-suite-living.jpg?w=1200&h=-1&s=1"
+      },
+      {
+        "name": "Lux Room 4",
+        "type": "Lux",
+        "price": 270,
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/15/e9/36/sheraton-suite.jpg?w=1200&h=-1&s=1"
+      },
+      {
+        "name": "Lux Room 5",
+        "type": "Lux",
+        "price": 320,
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/15/e9/3b/executive-suite-bedroom.jpg?w=1200&h=-1&s=1"
+      }
+    ]
+  }
